@@ -1,4 +1,4 @@
-# Currency Converter
+# Currency Convert
 
 A simple web app built to practice JavaScript and explore how interactive interfaces work.
 
