@@ -3,8 +3,8 @@
 A simple web app built to practice JavaScript and explore how interactive interfaces work.
 
 ## 📸 Preview
+<img width="431" height="837" alt="image" src="https://github.com/user-attachments/assets/cb87e9af-e692-4eee-a742-e274fdd511d1" />
 
-<img width="647" height="1129" alt="image" src="https://github.com/user-attachments/assets/c1cada44-b195-47d0-8ca4-cd3465baaf53" />
 
 ## 🖥️ Overview
 
