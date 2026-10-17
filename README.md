@@ -2,6 +2,10 @@
 
 A simple web app built to practice JavaScript and explore how interactive interfaces work.
 
+## 📸 Preview
+
+<img width="647" height="1129" alt="image" src="https://github.com/user-attachments/assets/c1cada44-b195-47d0-8ca4-cd3465baaf53" />
+
 ## 🖥️ Overview
 
 Currency Converter allows users to convert an amount from one selected currency to another through a clean and easy-to-use interface.
