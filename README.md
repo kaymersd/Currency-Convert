@@ -29,9 +29,13 @@ The project was developed during my web development studies at DevClub as a hand
 | CSS3 | Layout and visual design |
 | JavaScript | Application behavior and conversion calculations |
 
-## ▶️ Try It Yourself
+## Try the Project
 
-You can run the project locally without installing additional dependencies.
+You can run the Currency Convert directly in your browser:
+
+👉 https://kaymersd.github.io/Currency-Convert/
+
+Or run it locally:
 
 1. Download or clone this repository.
 2. Open the project folder in your code editor.
