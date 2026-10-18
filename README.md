@@ -29,7 +29,7 @@ The project was developed during my web development studies at DevClub as a hand
 | CSS3 | Layout and visual design |
 | JavaScript | Application behavior and conversion calculations |
 
-## Try the Project
+## 🚀 Try the Project
 
 You can run the Currency Convert directly in your browser:
 
