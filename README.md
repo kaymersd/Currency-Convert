@@ -31,18 +31,18 @@ The project was developed during my web development studies at DevClub as a hand
 
 ## 🚀 Try the Project
 
-You can run the Currency Convert directly in your browser:
+You can try **Currency Convert** directly in your browser:
 
-👉 https://kaymersd.github.io/Currency-Convert/
+👉 [https://kaymersd.github.io/Currency-Convert/](https://kaymersd.github.io/Currency-Convert/)
 
-Or run it locally:
+### Run Locally
 
-1. Download or clone this repository.
+1. Clone or download this repository.
 2. Open the project folder in your code editor.
-3. Launch `index.html` in your browser.
-4. Select the currencies and enter an amount.
+3. Open `index.html` in your browser.
+4. Select the currencies and enter an amount to convert.
 
-For local development, you can also use the Live Server extension in Visual Studio Code.
+For local development, you can also use the **Live Server** extension in Visual Studio Code.
 
 ## 🧠 Development Notes
 
